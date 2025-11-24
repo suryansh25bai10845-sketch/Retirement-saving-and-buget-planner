@@ -1,0 +1,61 @@
+PROJECT REPORT 
+
+Retirement -  savings and budget planner
+
+
+
+
+Made by :- Suryansh Pratap Singh
+Under the supervision of:-Dr.Poonkuntran S
+
+
+
+1. Introduction
+
+As people grow older, it becomes difficult for them to manage their money, plan their savings, and keep track of their monthly expenses. Many elderly people also struggle with complicated financial tools, so I decided to create a simple Python program that helps them plan their retirement savings and monthly budget in an easy way.
+The aim of this project is to make a tool that older people can actually use without getting confused. I kept the program simple, asked clear questions, and avoided anything too technical.
+
+
+2. Objective of the Project
+The main goals of this project are:
+1.To help people calculate how many years they have left until retirement
+2.To estimate how much money they might have by the time they retire
+3.To create a simple monthly budget planner
+4.To show whether they are saving money or spending more than their income
+5.To keep the interface simple and easy to read for elderly user.
+
+
+
+3. Tools and Technologies Used
+1.Python (main programming language)
+2.Simple math formulas for interest and budgeting
+3.Console-based input/output (since it is easier for older people)
+
+
+4. Advantages of the Project
+1.Very easy to use
+2.Helpful for elderly users
+3.Simple and clean interface
+4.No technical knowledge needed
+5.Helps people understand their financial situation better
+
+7. Limitations
+1.It uses a simple interest rate and not advanced financial formulas
+2.It does not handle complex investment.
+3.The interface is basic and text-based
+4.The accuracy depends on the inputs given by the user
+5.These limitations can be improved in future versions.
+
+
+8. Future Improvements
+If I continue developing this project, I can add features like:
+1.A Graphical User Interface (GUI) with big buttons
+2.More accurate compound interest calculations
+3.Voice assistance for people who cannot type well
+4.Saving user data for future use
+5Printable monthly budget report
+
+9. Conclusion
+This project helped me understand how to create simple financial tools using Python.
+More importantly,it taught me how to design programs that are easy for older people to use.
+The Retirement Savings and Budget Planner can be useful for anyone who wants to plan their money better, especially senior citizens.
