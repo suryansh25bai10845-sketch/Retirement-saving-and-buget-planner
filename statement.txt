@@ -1,0 +1,32 @@
+Problem statement :-
+
+Individuals often struggle to estimate how much they need to save for retirement and how to manage their monthly budget effectively. This project aims to provide a Python-based tool that helps users calculate projected retirement savings using compound interest and analyze monthly income and expenses to support better financial planning.
+
+Scope of the project:-
+
+The project focuses on helping users plan their long-term retirement savings and manage monthly budgets through simple Python-based calculations. It provides a foundation for expanding into more advanced financial planning tools in the future.
+
+Target users:-
+
+The target users are individuals who want to manage their monthly expenses and plan for long-term retirement savings. It is especially useful for students, early professionals, and anyone beginning financial planning.
+
+Here are 5 high-level features of the project:
+
+1.	Calculates projected retirement savings using compound interest.
+2.	Allows customization of age, savings, monthly contributions, and return rate.
+3.	Provides a detailed monthly budget analysis based on user-defined expenses.
+4.	Computes total expenses and remaining savings automatically.
+5.	Offers a simple, easy-to-use Python framework for basic financial planning.
+
+How it works
+
+Step 1. Run the code.
+Step2. Enter your name.
+Step 3. Enter your current age.
+Step 4. Enter the age you want to retire.
+Step 5. Enter the amount of savings you have.
+Step 6. Enter the amount of savings you have.
+Step 7. Enter the amount you save every month.
+Step 8. Enter your monthly income.
+Step 9. Enter your monthly expenses as given
+Step 10. Get output
